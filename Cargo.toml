@@ -1,0 +1,11 @@
+[package]
+name = "mrc"
+version = "0.1.0"
+authors = ["Martin Kunz <martinkunz@email.cz>"]
+edition = "2018"
+license = "MIT"
+description = "MRC decoding and encoding library"
+repository = "https://github.com/kunzaatko/image-mrc"
+exclude = ["tests/images/*"]
+
+[dependencies]
